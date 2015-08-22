@@ -1,0 +1,12 @@
+# Site settings
+title: "&#x3A7; &#x39B; &#x39C;"
+email: clam@mit.edu
+description: > # this means to ignore newlines until "baseurl:"
+  smoke weed everyday
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://clam.me" # the base hostname & protocol for your site
+twitter_username:
+github_username:
+
+# Build settings
+markdown: kramdown
