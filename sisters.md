@@ -13,5 +13,5 @@ Justine Jang
 Alex LaGrassa  
 Asya Bergal  
 Daniel Bausher-Belton  
-Adam o''Kalinich  
+Adam o'Kalinich  
 Lane Gunderman  
