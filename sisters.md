@@ -19,6 +19,12 @@ Bio: Hails from the universally acknowledged "Worst. State. Ever", so being in M
 
 <div style="min-height:200px">
 <img style="float: right;" src="/assets/clam.jpg">
+<h3 style="text-align: left">Eric <b>Lujan</b></h3>
+Bio: He can lead a horse to water... and make it serve him a drink. He stares into the abyss... and it winks back. He doesn't just crack the code... he shatters it. He's all that... and a chip factory. He once knocked his own socks off. He knows Victoria's Secret. He is... well, actually a pretty boring Las Vegas-Floor Pi transplant who enjoys making outdated references, but he paid his membership fees so we have to say he's a member of XAM.
+</div>
+
+<div style="min-height:200px">
+<img style="float: right;" src="/assets/clam.jpg">
 <h3 style="text-align: left">Katie <b>Sedlar</b></h3>
 Bio: Originally from The Land of Infinite Corn, Katie now lives in a space void that sucks in all light. Katie is an active participant in a collective of assassins, and she enjoys writing training exercises for other assassins, giving the death penalty to those who tap others on the shoulder, and acting as a cog in a giant square machine. Last summer, she worked on a Borg cube near Foster's Home for Imaginary Friends, where she learned a lot about getting bundles of wire to do her work for her. Katie joined Chi Lambda Mu in 2014.
 </div>
@@ -66,10 +72,5 @@ Bio: Originally from The Land of Infinite Corn, Katie now lives in a space void 
 <div style="min-height:200px">
 <img style="float: right;" src="/assets/clam.jpg">
 <h3 style="text-align: left">Elaine <b>Phillips</b></h3>
-</div>
-
-<div style="min-height:200px">
-<img style="float: right;" src="/assets/clam.jpg">
-<h3 style="text-align: left">Eric <b>Lujan</b></h3>
 </div>
 
