@@ -4,16 +4,14 @@ title: Sisters
 permalink: /sisters/
 ---
 
-abergal  
-aok  
-dbausher  
-dininno  
-dzaefn  
-friedlan  
-ksedlar  
-lgunder  
-lopezv  
-parevalo  
-ryancheu  
-stigges  
-taylors  
+Lilly Chin  
+Katie Sedlar  
+Ethan DiNinno  
+Samuel Duchovni  
+Lawrence Wu  
+Justine Jang  
+Alex LaGrassa  
+Asya Bergal  
+Daniel Bausher-Belton  
+Adam o'Kalinich  
+Lane Gunderman  
