@@ -4,6 +4,8 @@ title: Alumni
 permalink: /alumni/
 ---
 
+Bobby Fortanely  
+Fangfei Shen  
 George Xing  
 Brian Hamrick  
 Sherry Wu  
@@ -13,3 +15,4 @@ Jeff Wu
 James Rowan  
 Daniel Ziegler  
 Taylor Sutton  
+
