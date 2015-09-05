@@ -10,7 +10,6 @@ Although we've been a living group since 1968, ΧΛΜ decided to affiliate with 
 
 Chi Lambda Mu has always had a history of excellence both socially and academically, winning several awards in gaming, computer science and mathematics. Known as "the social and entertainment nexus", Chi Lambda Mu subscribes to high standards of leadership, sisterhood, and spiritual unity.
 
-
 Awards
 =======
 
