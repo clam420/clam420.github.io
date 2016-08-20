@@ -65,6 +65,12 @@ Bio: Originally from The Land of Infinite Corn, Katie now lives in a space void 
 </div>
 
 <div style="min-height:200px; margin:30px auto">
+<img style="float:left; padding-right:8px; padding-top:8px; max-width: 30%" src="/assets/clam.jpg">
+<h3>Aisha <b>Wang</b></h3>
+Aisha enjoys talking in the third person and baking too many cookies. While not setting psets or her hair on fire, she enjoys flailing about while attempting to play vidjagames, taming giant squids, and memeing with her sisters. <3
+</div>
+
+<div style="min-height:200px; margin:30px auto">
 <img style="float:left; padding-right:8px; padding-top:8px; max-width: 30%" src="/assets/llwu.jpg">
 <h3>Lawrence <b>Wu</b></h3>
 Bio: Half man, half computer. Despite allegations that he only listens to Dr. Dre and Snoop Dogg, Lawrence is actually into all things music, including the ancient art of disc jockeying on the airwaves from the basement of MIT's Walker Memorial. Anything else involving combos (video games, popping, combinatorics, algorithms, etc.) probably also interests him. For some reason, fellow sisters like to assimilate Lawrence's jargon. l4wr3nc3 run5 th15 s1t3 l0l
