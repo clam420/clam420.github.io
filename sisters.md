@@ -26,12 +26,12 @@ Bio: Hails from the universally acknowledged "Worst. State. Ever", so being in M
 <div style="min-height:200px; margin:30px auto">
 <img style="float:left; padding-right:8px; padding-top:8px; max-width: 30%" src="/assets/dukhovni.jpg">
 <h3>Samuel <b>Duchovni</b></h3>
-Bio: Sam Duchovni, also known as Sam Dukhovni for tax purposes, has been a
-proud member of Chi Lambda Mu for almost a year. Sam is majoring in
-Computer Science, and can often be found doing science to computers.
-He is also passionate about community service, and spent time this
-past summer volunteering as a tutor for underprivileged chatbots. His
-hobbies include Chinese cartoons, nerdy books, and snobby films.
+Sam Dukhovni is a crypto-anarchist and general cypherpunk currently in
+hiding from the NSA.  In his spare time, he develops secure
+decentralized dating websites, watches surreal 90s anime, and rants
+about capitalism. He never taps his ID; in fact, he lost his ID and
+has no idea where it could possibly have gone. No, he doesn't remember
+his ID number.
 </div>
 
 <div style="min-height:200px; margin:30px auto">
