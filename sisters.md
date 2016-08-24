@@ -24,6 +24,12 @@ Bio: Hails from the universally acknowledged "Worst. State. Ever", so being in M
 </div>
 
 <div style="min-height:200px; margin:30px auto">
+<img style="float:left; padding-right:8px; padding-top:8px; max-width: 30%" src="/assets/ijc.png">
+<h3>Ian <b>Clester</b></h3>
+Bio: Ian (also known as "ijc", "Mr. Clandowski", and "that kid") is a truly singular individual. Having journeyed Northwards from the blazing heat of The South (specifically, the georgraphical center of the Worst State), he now resides within the blazing halls of Chi Lambda Mu. He was once accused of secretly being a robot, but contemporary theorists promote the hypothesis that he may instead be some variety of magical creature, heretofore undocumented (a veritable "Magic Ian"). He's okay to talk to, probably. If that's something you'd want to do.
+</div>
+
+<div style="min-height:200px; margin:30px auto">
 <img style="float:left; padding-right:8px; padding-top:8px; max-width: 30%" src="/assets/dukhovni.jpg">
 <h3>Samuel <b>Duchovni</b></h3>
 Sam Dukhovni is a crypto-anarchist and general cypherpunk currently in
