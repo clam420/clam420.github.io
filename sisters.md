@@ -89,16 +89,5 @@ Bio: Half man, half computer. Despite allegations that he only listens to Dr. Dr
 
 <div style="min-height:200px; margin:30px auto">
 <img style="float:left; padding-right:8px; padding-top:8px; max-width: 30%" src="/assets/clam.jpg">
-<h3>Adam <b>Kalinich</b></h3>
-</div>
-
-<div style="min-height:200px; margin:30px auto">
-<img style="float:left; padding-right:8px; padding-top:8px; max-width: 30%" src="/assets/clam.jpg">
-<h3>Alex <b>LaGrassa</b></h3>
-</div>
-
-<div style="min-height:200px; margin:30px auto">
-<img style="float:left; padding-right:8px; padding-top:8px; max-width: 30%" src="/assets/clam.jpg">
 <h3>Elaine <b>Phillips</b></h3>
 </div>
-

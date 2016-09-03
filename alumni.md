@@ -7,6 +7,11 @@ permalink: /alumni/
 
 # Gone, but not forgotten
 
+## 2016
+* George Friedlander
+* Adam Kalinich
+* Sophia Tigges
+
 ## 2015
 * Daniel Li
 * Taylor Sutton
