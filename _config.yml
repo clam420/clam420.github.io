@@ -4,6 +4,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Quadringentorum Viginti Flammate
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://chilambdamu.org" # the base hostname & protocol for your site
+permalink: /404.html
 
 # Build settings
 markdown: kramdown
