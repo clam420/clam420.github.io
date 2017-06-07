@@ -55,7 +55,7 @@ Bio: My name is Maximus Decimus Meridius, commander of the Armies of the North, 
 <div style="min-height:200px; margin:30px auto">
 <img style="float:left; padding-right:8px; padding-top:8px; max-width: 30%" src="/assets/clam.jpg">
 <h3>Emma <b>Lee</b></h3>
-Bio: What happens when you throw a former sysadmin into radios? You get a 6-2. If it involves RF and computers, leee probably is doing something with it. While leee is a cruft currently transplanted in New York City for research, they paid their membership dues and therefore is a sister of Chi Lambda Mu, so we're probably required to list them here. leee can be pronounced using glottal stops like so: /liʔiʔiʔiʔiː/.
+Bio: What happens when you throw a former sysadmin into radios? You get a 6-2. If it involves RF and computers, leee probably is doing something with it. While leee is a cruft currently transplanted in New York City for research, she paid her membership dues and therefore is a sister of Chi Lambda Mu, so we're probably required to list her here. leee can be pronounced using glottal stops like so: /liʔiʔiʔiʔiː/.
 </div>
 
 <div style="min-height:200px; margin:30px auto">
