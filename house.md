@@ -7,7 +7,7 @@ We hope y'all come visit us in person, but if you can't, take a look at this vir
 
 Front
 ====
-![Front](https://housing.mit.edu/sites/default/files/housing/undergrad/lightbox/2012_07_Random_004.jpg)
+![Front](/assets/front.jpg)
 
 We live in a historical apartment complex right in the middle of Central Square. Less than a block away from Shaw's as well as the bustling restaurants of Central Square, you'll never want for food in Chi Lambda Mu! Getting to anywhere in Cambridge or Boston is extremely convenient, as we are only a few blocks away from a T stop. 
 

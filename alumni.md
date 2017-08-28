@@ -7,14 +7,26 @@ permalink: /alumni/
 
 # Gone, but not forgotten
 
+## 2017
+* Marcus Boorstin
+* Ethan DiNinno
+* Lane Gunderman
+* Justine Jang
+* Victor Lopez
+* Taylor Sutton
+* Lawrence Wu
+* Senpai
+
 ## 2016
+* Haley Bates
 * George Friedlander
 * Adam Kalinich
 * Sophia Tigges
+* Aisha Wang
+* Shi-Ke Xue
 
 ## 2015
 * Daniel Li
-* Taylor Sutton
 
 ## 2014
 * Bobby Fortanely
