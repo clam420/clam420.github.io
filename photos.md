@@ -28,13 +28,13 @@ permalink: /photos/
 <div class="gallery" align="center">
 
 	<div class="preview" align="center">
-		<img name="preview" src="/assets/league.jpeg" alt=""/>
+		<img name="preview" src="/assets/league.jpg" alt=""/>
 	</div>
 
 	<br>
 
 	<div class="thumbnails">
-		<img onmouseover="preview.src=imgA.src" name="imgA" src="/assets/league.jpeg" alt="Work hard, play harder"/>
+		<img onmouseover="preview.src=imgA.src" name="imgA" src="/assets/league.jpg" alt="Work hard, play harder"/>
 		<img onmouseover="preview.src=img0.src" name="img0" src="/assets/gangsign.jpg" alt="Sorority Spirit"/>
 		<img onmouseover="preview.src=img4.src" name="img4" src="/assets/entrance.jpg" alt="Chilling Outside"/>
 		<img onmouseover="preview.src=img1.src" name="img1" src="/assets/squat2015.jpg" alt="Pledge Dinner 2015"/>
