@@ -177,7 +177,7 @@ Aisha enjoys talking in the third person and baking too many cookies. While not 
 -->
 
 <div style="min-height:200px; margin:30px auto">
-<img style="float:left; padding-right:8px; padding-top:8px; max-width: 30%" src="/assets/clam.jpg">
+<img style="float:left; padding-right:8px; padding-top:8px; max-width: 30%" src="/assets/bios/mikewins.jpg">
 <h3>Mike <b>Winston</b></h3>
 Mike is a proud sister of Chi Lambda Mu. His hobbies include physics, comedy, and standing in front of mountains while people take pictures of him. He once ran for President of the United States.
 </div>
