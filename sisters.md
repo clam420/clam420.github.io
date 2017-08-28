@@ -157,12 +157,15 @@ Originally from The Land of Infinite Corn, Katie now lives in a space void that 
 <img style="float:left; padding-right:8px; padding-top:8px; max-width: 30%" src="/assets/clam.jpg">
 <h3>Jonathan <b>Tidor</b></h3>
 </div>
+-->
 
 <div style="min-height:200px; margin:30px auto">
-<img style="float:left; padding-right:8px; padding-top:8px; max-width: 30%" src="/assets/clam.jpg">
-<h3>Cannon <b>Vogel</b></h3>
+<img style="float:left; padding-right:8px; padding-top:8px; max-width: 30%" src="/assets/bios/c3141592.jpg">
+<h3>Rev. Cannon <b>Vogel</b></h3>
+An ordained minister and thereminist, Cannon enjoys time traveling (forward only) and impersonating Nicholas Cage. Available for wedding planning engagements as well as professional cuddling services, Cannon is currently a physics student working on the Dark MatterTM. <br/>
+*insert shameless quidditch team plug*
 </div>
--->
+
 
 <!--
 <div style="min-height:200px; margin:30px auto">
