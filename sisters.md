@@ -20,7 +20,7 @@ Asya is conventionally known as the shortest member of Chi Lambda Mu, with a ple
 <div style="min-height:200px; margin:30px auto">
 <img style="float:left; padding-right:8px; padding-top:8px; max-width: 30%" src="/assets/bios/ltchin.jpg">
 <h3>Lilly <b>Chin</b></h3>
-Hails from the universally acknowledged "Worst. State. Ever", so being in Massachusetts is just a clear improvement. Although it's debatable whether or not she even lives at the sorority itself, she's usually held responsible for starting the impetus to turn Chi Lambda Mu into a social and co-ed sorority. Has a tendency to SPEAK IN ALL CAPS and conduct social shenanigans. In her spare time, she shoots down small clay frisbees with a shotgun. Currently proudly serving as Rush Chair and Social Floor for Chi Lambda Mu!
+Hails from the universally acknowledged "Worst. State. Ever", so being in Massachusetts is just a clear improvement. Although it's debatable whether she even lives at the sorority, she's usually held responsible for providing the impetus to turn Chi Lambda Mu into a social co-ed sorority. Has a tendency to SPEAK IN ALL CAPS and conduct social shenanigans. In her spare time, she shoots down small clay frisbees with a shotgun. Currently proudly serving as Rush Chair and Social Floor for Chi Lambda Mu!
 </div>
 
 <!--
