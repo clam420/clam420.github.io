@@ -21,7 +21,7 @@ permalink: /photos/
 
 .preview img {b
 	padding: 1px;
-	width: 600px;
+	height: 400px;
 }
 </style>
 
