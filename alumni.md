@@ -5,7 +5,17 @@ permalink: /alumni/
 ---
 ![Floor Dinner](/assets/floordinner.jpg)
 
-# Gone, but not forgotten
+# Gone, but never forgotten
+
+## 2019
+* Ian Clester
+* Mgcini Keith Phuthi
+* Katie Mathison
+* Rev. Cannon Vogel
+
+## 2018
+* Ryuga Hatano
+* Daniel Bausher
 
 ## 2017
 * Marcus Boorstin
