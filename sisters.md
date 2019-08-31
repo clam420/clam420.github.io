@@ -6,6 +6,12 @@ permalink: /sisters/
 ![Group pic](/assets/cheese_tasting.jpg)
 
 <div style="min-height:200px; margin:30px auto">
+<img style="float:left; padding-right:8px; padding-top:8px; max-width: 30%" src="/assets/bios/malvika.jpg">
+<h3>Malvika <b>Joshi</b></h3>
+Bottom Text
+</div>
+
+<div style="min-height:200px; margin:30px auto">
 <img style="float:left; padding-right:8px; padding-top:8px; max-width: 30%" src="/assets/bios/dbausher.jpg">
 <h3>Daniel <b>Bausher-Belton</b></h3>
 A native of the sunshine state originally. Now, however, he lives within the sorority. Daniel is a sophomore. He is currently 6-3. Internally he is referred to as "dbausher". Spends a lot of time being a legend and playing with dragons and phoenii. Nationally ranked procrastinator. Always ready to help! Mail him @dbausher, in case you didnt pick up on that. Ever available and happy to meet new pledges! (IS JOHN CENA)
