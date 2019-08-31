@@ -29,12 +29,10 @@ Asya is conventionally known as the shortest member of Chi Lambda Mu, with a ple
 Hails from the universally acknowledged "Worst. State. Ever", so being in Massachusetts is just a clear improvement. Although it's debatable whether she even lives at the sorority, she's usually held responsible for providing the impetus to turn Chi Lambda Mu into a social co-ed sorority. Has a tendency to SPEAK IN ALL CAPS and conduct social shenanigans. In her spare time, she shoots down small clay frisbees with a shotgun. Currently proudly serving as Rush Chair and Social Floor for Chi Lambda Mu!
 </div>
 
-<!--
 <div style="min-height:200px; margin:30px auto">
 <img style="float:left; padding-right:8px; padding-top:8px; max-width: 30%" src="/assets/clam.jpg">
 <h3>Van <b>Chung</b></h3>
 </div>
--->
 
 <div style="min-height:200px; margin:30px auto">
 <img style="float:left; padding-right:8px; padding-top:8px; max-width: 30%" src="/assets/bios/ijc.png">
@@ -53,11 +51,9 @@ has no idea where it could possibly have gone. No, he doesn't remember
 his ID number.
 </div>
 
-<!--
 <div style="min-height:200px; margin:30px auto">
 <img style="float:left; padding-right:8px; padding-top:8px; max-width: 30%" src="/assets/clam.jpg">
 <h3>Arkadiy <b>Frasinich</b></h3>
-</div>
 
 <div style="min-height:200px; margin:30px auto">
 <img style="float:left; padding-right:8px; padding-top:8px; max-width: 30%" src="/assets/clam.jpg">
@@ -65,7 +61,7 @@ his ID number.
 </div>
 -->
 
-<!--
+
 <div style="min-height:200px; margin:30px auto">
 <img style="float:left; padding-right:8px; padding-top:8px; max-width: 30%" src="/assets/bios/lgunder.jpg">
 <h3>Lane <b>Gunderman</b></h3>
@@ -91,11 +87,11 @@ What happens when you throw a former sysadmin into radios? You get a 6-2. If it 
 A man of few words.
 </div>
 
-<!--
+
 <div style="min-height:200px; margin:30px auto">
 <img style="float:left; padding-right:8px; padding-top:8px; max-width: 30%" src="/assets/clam.jpg">
 <h3>Malvika <b>Joshi</b></h3>
-</div>
+
 
 <div style="min-height:200px; margin:30px auto">
 <img style="float:left; padding-right:8px; padding-top:8px; max-width: 30%" src="/assets/clam.jpg">
@@ -126,7 +122,7 @@ filler filler filler filler filler filler filler filler filler filler filler fil
 (XLM junior webmaster) 
 </div>
 
-<!--
+
 <div style="min-height:200px; margin:30px auto">
 <img style="float:left; padding-right:8px; padding-top:8px; max-width: 30%" src="/assets/clam.jpg">
 <h3>Tristan <b>McLaurin</b></h3>
@@ -146,7 +142,7 @@ filler filler filler filler filler filler filler filler filler filler filler fil
 <img style="float:left; padding-right:8px; padding-top:8px; max-width: 30%" src="/assets/clam.jpg">
 <h3>Keith <b>Phuthi</b></h3>
 </div>
--->
+
 
 <div style="min-height:200px; margin:30px auto">
 <img style="float:left; padding-right:8px; padding-top:8px; max-width: 30%" src="/assets/bios/ksedlar.jpg">
@@ -154,7 +150,7 @@ filler filler filler filler filler filler filler filler filler filler filler fil
 Originally from The Land of Infinite Corn, Katie now lives in a space void that sucks in all light. Katie is an active participant in a collective of assassins, and she enjoys writing training exercises for other assassins, giving the death penalty to those who tap others on the shoulder, and acting as a cog in a giant square machine. Last summer, she worked on a Borg cube near Foster's Home for Imaginary Friends, where she learned a lot about getting bundles of wire to do her work for her. Katie joined Chi Lambda Mu in 2014.
 </div>
 
-<!--
+
 <div style="min-height:200px; margin:30px auto">
 <img style="float:left; padding-right:8px; padding-top:8px; max-width: 30%" src="/assets/clam.jpg">
 <h3>Luke <b>Shimanuki</b></h3>
@@ -164,7 +160,7 @@ Originally from The Land of Infinite Corn, Katie now lives in a space void that 
 <img style="float:left; padding-right:8px; padding-top:8px; max-width: 30%" src="/assets/clam.jpg">
 <h3>Jonathan <b>Tidor</b></h3>
 </div>
--->
+
 
 <div style="min-height:200px; margin:30px auto">
 <img style="float:left; padding-right:8px; padding-top:8px; max-width: 30%" src="/assets/bios/c3141592.jpg">
@@ -174,13 +170,12 @@ An ordained minister and thereminist, Cannon enjoys time traveling (forward only
 </div>
 
 
-<!--
 <div style="min-height:200px; margin:30px auto">
 <img style="float:left; padding-right:8px; padding-top:8px; max-width: 30%" src="/assets/clam.jpg">
 <h3>Aisha <b>Wang</b></h3>
 Aisha enjoys talking in the third person and baking too many cookies. While not setting psets or her hair on fire, she enjoys flailing about while attempting to play vidjagames, taming giant squids, and memeing with her sisters. <3
 </div>
--->
+
 
 <div style="min-height:200px; margin:30px auto">
 <img style="float:left; padding-right:8px; padding-top:8px; max-width: 30%" src="/assets/bios/mikewins.jpg">
@@ -188,7 +183,6 @@ Aisha enjoys talking in the third person and baking too many cookies. While not 
 Mike is a proud sister of Chi Lambda Mu. His hobbies include physics, comedy, and standing in front of mountains while people take pictures of him. He once ran for President of the United States.
 </div>
 
-<!--
 <div style="min-height:200px; margin:30px auto">
 <img style="float:left; padding-right:8px; padding-top:8px; max-width: 30%" src="/assets/bios/llwu.jpg">
 <h3>Lawrence <b>Wu</b></h3>
@@ -204,4 +198,4 @@ Half man, half computer. Despite allegations that he only listens to Dr. Dre and
 <img style="float:left; padding-right:8px; padding-top:8px; max-width: 30%" src="/assets/clam.jpg">
 <h3>Ethan <b>DiNinno</b></h3>
 </div>
--->
+
