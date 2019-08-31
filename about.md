@@ -14,7 +14,7 @@ Awards
 =======
 
 * 2017 - Jeopardy College Championship winner
-* 2013-present - Two nationally ranked League of Legends teams
+* 2013-2018 - Two nationally ranked League of Legends teams
 * 2013-present - Several internationally recognized Tichu players
 * 2014 - Two Top 25 contestants in the William Lowell Putnam Mathematical Competition
 * 2014 - Most kills made by a single person in Live-Action Mafia
