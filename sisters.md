@@ -6,7 +6,7 @@ permalink: /sisters/
 ![Group pic](/assets/cheese_tasting.jpg)
 
 <div style="min-height:200px; margin:30px auto">
-<img style="float:left; padding-right:8px; padding-top:8px; max-width: 30%" src="/assets/bios/lukeshim.jpg">
+<img style="float:left; padding-right:8px; padding-top:8px; max-width: 30%" src="/assets/bios/lukeshim.jpeg">
 <h3>Luke <b>Shimanuki</b></h3>
 On a mission to play through every main series Fire Emblem game to completion, Luke has reached his most formidable foe yet behind the Three Houses.
 </div>
